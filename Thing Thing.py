@@ -1,3 +1,4 @@
+#boi you look like a purple sweet potato thats not even purple is magenta popi
 import random
 randomWords = ["ducks" , "jumbo" , "lucky" , "pills" , "flour"]
 secret = random.choice (randomWords)
